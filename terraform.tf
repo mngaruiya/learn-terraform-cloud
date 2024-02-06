@@ -1,6 +1,5 @@
 terraform {
-
-/*cloud {
+cloud {
     organization = "Martha"
 
     workspaces {
@@ -8,7 +7,7 @@ terraform {
     }
     
   }
-  */
+  
 
 
 
